@@ -1,6 +1,6 @@
 Flask==1.1.2
 cec==0.2.7
-certifi==2021.10.8
+certifi==2022.12.7
 configparser==4.0.2
 cryptography==3.3.2
 idna==2.6
